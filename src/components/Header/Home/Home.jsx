@@ -7,6 +7,7 @@ const Home = () => {
     
     return (
         <div>
+            <h1>This is Header</h1>
              { user && <span>{user.displayName}</span>}
         </div>
     );

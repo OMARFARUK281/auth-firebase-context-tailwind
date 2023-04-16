@@ -17,3 +17,7 @@
 1. break down the create user function
 2. auth provider will hae auth and email and password from register
 */
+
+/*
+1. Private Route
+*/
